@@ -19,5 +19,5 @@ return num1 % num2
 end
 
 def square_root(num)
-puts num ** (1/2)
+return num ** (0.5)
 end
